@@ -1,0 +1,27 @@
+.profile-picture{
+    object-fit: cover;
+    width:40px;
+    height:40px;
+    border-radius:20px;
+    vertical-align: middle;
+    margin-right:3px;
+}
+.search-box{
+    border:none;
+    width:300px;
+    vertical-align: middle;
+    font-size:15px;
+}
+.search-box{
+    outline:none;
+}
+.tweet-button{
+    background-color:rgb(21, 153, 230);
+    padding:8px 15px;
+    border:none;
+    color:white;
+    border-radius:18px;
+    font-family: Arial;
+    font-weight:bold;
+    vertical-align: middle;
+}

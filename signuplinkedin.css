@@ -1,0 +1,36 @@
+p{
+    font-family: Arial;
+    color:rgb(89, 86, 86);
+}
+.email-txt{
+    margin-top:0;
+    font-size:13px;
+    margin-bottom:4px;
+}
+.tc-txt{
+    font-size:11px;
+    width:276.8px;
+}
+.search-box{
+    margin-top:2px;
+    width:270px;
+    height:22px;
+    border-width:1.6px;
+    border-style:solid;
+    border-color: rgb(37, 36, 36);
+    border-radius:4px;
+}
+
+.join-button{
+    background-color: rgb(33, 88, 226);
+    color:white;
+    border:none;
+    font-family:Arial;
+    padding:8px 102px;
+    border-radius:18px;
+    transition: background-color 0.1s;
+    cursor:pointer;
+}
+.join-button:hover{
+    background-color: blue;
+}
