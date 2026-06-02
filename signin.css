@@ -1,0 +1,12 @@
+.name-box{
+    display:block;
+    margin-bottom:5px;
+    
+}
+.email-box{
+    display:block;
+}
+
+input::placeholder{
+    font-family: Arial;
+}

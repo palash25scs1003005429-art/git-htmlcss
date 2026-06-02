@@ -1,0 +1,46 @@
+.desc-txt{
+    font-family: Arial;
+    font-size:30px;
+    margin-top: 0;
+    margin-bottom:20px;
+}
+.pickuploc-box{
+    width:290px;
+    display:block;
+    font-size:10px;
+    border:none;
+    background-color: rgba(128,128,128,0.2);
+    margin-bottom:6px;
+    padding:10px 10px;
+    font-family:Arial;
+}
+
+.destloc-box{
+    width:290px;
+    font-size:10px;
+    border:none;
+    display:block;
+    background-color: rgba(128,128,128,0.15);
+    margin-bottom:25px;
+    padding:10px 10px;
+    font-family:Arial;
+}
+
+.req-button{
+    margin-bottom:5px;
+    color:white;
+    font-size:10px;
+    background-color:black;
+    padding:10px 20px;
+    border:none;
+    margin-right:10px;
+    font-family: Arial;
+}
+
+.sfl-button{
+    border:none;
+    font-size:10px;
+    padding: 10px 20px;
+    font-family: Arial;
+
+}

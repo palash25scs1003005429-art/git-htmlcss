@@ -1,4 +1,11 @@
-
+.container{
+    border-width:1px;
+    padding:10px 16px;
+    display:inline-block;
+    border-radius: 2px;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.15);
+    
+}
 .profile-picture{
     object-fit: cover;
     width:40px;

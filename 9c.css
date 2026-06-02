@@ -1,0 +1,19 @@
+.container{
+    border-width:1px;
+    padding:12px 14px;
+    border-style:solid;
+    width:300px;
+    border-color:rgba(128,128,128,0.5);
+}
+
+.ques-txt{
+    font-family: Arial;
+    margin-top:0;
+}
+
+.yes-button,
+.no-button{
+    font-family:Arial;
+    margin-bottom:5px;
+}
+

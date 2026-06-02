@@ -1,0 +1,11 @@
+.feedback-txt{
+    display:inline-block;
+    width:200px;
+    vertical-align: middle;
+}
+
+.yes-button,
+.no-button{
+    display:inline-block;
+    vertical-align: middle;
+}
