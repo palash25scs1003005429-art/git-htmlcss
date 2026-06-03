@@ -1,0 +1,64 @@
+
+.kagaya{
+
+    width:30px;
+    height:30px;
+    object-fit: cover;
+    border-radius:25px;
+
+
+}
+.container{
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.15);
+    border-style:solid;
+    border-radius:2px;
+    border-width:1px;
+    border-color:rgba(0,0,0,0.15);
+    margin-right:5px;
+}
+.img1{
+    width:100%;
+    object-fit:cover ;
+    object-position:centre;
+    
+}
+
+p{
+    font-family:Arial;
+}
+
+.name1-txt{
+    font-weight:bold;
+    margin-left:4px;
+    margin-bottom:0;
+}
+
+.friend-list1{
+    color:gray;
+    font-size:13px;
+
+}
+
+.addfriend-button{
+    background-color: blue;
+    color:white;
+    border:none;
+    padding:10px 20px;
+    border-radius:5px;
+    margin-left:4px;
+}
+
+.hv1,
+.hv2{
+    margin-top:10px;
+    vertical-align: middle;
+    margin-bottom:4px;
+}
+
+.hv1{
+    width:100%;
+}
+
+.hv2{
+    width:97px;
+}

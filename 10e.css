@@ -1,0 +1,68 @@
+
+.kagaya{
+    margin-left:4px;
+    width:30px;
+    height:30px;
+    object-fit: cover;
+    border-radius:25px;
+    display:inline-block;
+}
+.container{
+    height:300px;
+    width:150px;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.15);
+    border-style:solid;
+    border-radius:2px;
+    border-width:1px;
+    border-color:rgba(0,0,0,0.15);
+    display:inline-block;
+    margin-right:5px;
+}
+.img1{
+    width:150px;
+    height:150px;
+    object-fit:cover ;
+    
+}
+
+p{
+    font-family:Arial;
+}
+
+.name1-txt{
+    font-weight:bold;
+    margin-left:4px;
+    margin-bottom:0;
+}
+
+.friend-list1{
+    color:gray;
+    margin-left:4px;
+    display:inline-block;
+    font-size:13px;
+}
+
+.addfriend-button{
+    background-color: blue;
+    color:white;
+    border:none;
+    padding:10px 20px;
+    border-radius:5px;
+    margin-left:4px;
+}
+
+.hv1,
+.hv2{
+    margin-top:10px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom:4px;
+}
+
+.hv1{
+    width:40px;
+}
+
+.hv2{
+    width:97px;
+}
