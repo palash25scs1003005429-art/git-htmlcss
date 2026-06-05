@@ -1,0 +1,29 @@
+.container{
+    display:flex;
+}
+
+.div1{
+    width:100px;
+    background-color: lightpink;
+}
+
+.div2{
+    width:200px;
+    background-color: lightblue;
+}
+
+.row-2{
+    display:flex;
+    justify-content: space-between;  
+}
+
+.row1-txt{
+    margin-top:0;
+    margin-bottom:0;
+}
+
+.row2-txt{
+    margin-top:0;
+    background-color:black;
+    color:white;
+}

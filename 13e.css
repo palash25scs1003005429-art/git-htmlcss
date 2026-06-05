@@ -1,0 +1,61 @@
+p{
+    font-family: Arial;
+}
+
+.inbox-txt{
+    margin-bottom: 20px;
+}
+.container{
+    border-color:rgba(128,128,128,0.15);
+    border-style: solid;
+    border-radius: 2px;
+    border-width: 1px;
+    box-shadow:  2px 2px 2px rgba(0,0,0,0.15);
+    
+}
+
+.inbox-txt{
+    margin-left:10px;
+    color:gray;
+    margin-top:8px;
+    font-size: 12px;
+}
+
+.img{
+    width:50px;
+    height:50px;
+    object-fit: cover;
+    border-radius: 25px;
+    margin-left:10px;
+}
+
+.info-container{
+    display:flex;
+    align-items:start;
+    justify-content: space-between;
+}
+
+.brand-name{
+    font-weight: bold;
+    margin-top:0;
+    margin-bottom:2px;
+}
+
+.brand-campaign{
+    font-weight: bold;
+    margin-top:0;
+    margin-bottom:2px;
+
+}
+
+.brand-desc{
+    margin-top:0;
+    color:gray;
+}
+
+.time{
+    margin-top:0;
+    color:gray;
+    margin-right:10px;
+    font-size:13px;
+}
