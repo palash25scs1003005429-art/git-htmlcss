@@ -1,0 +1,59 @@
+.innercontainer{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.img{
+    width:50px;
+    height:50px;
+    object-fit: cover;
+    border-radius: 50px;
+    margin-right:10px;
+}
+
+.follow-button{
+    background-color:#1DA1F2;
+    color:white;
+
+}
+
+body{
+    font-family: Arial;
+}
+
+
+.follow-button{
+    background-color:#1DA1F2;
+    border:none;
+    font-size:18px;
+    border-radius:4px;
+    color:white;
+    padding-left: 12px;
+    padding-right: 12px;
+    height:40px;
+    font-weight: bold;
+    margin-bottom:70px;
+}
+
+.name{
+    font-weight: bold;
+}
+
+.rank{
+    color:gray;
+}
+
+.char{
+    color:gray;
+}
+
+.person-details{
+    text-align: left;
+    width:900px;
+
+}
+
+.right-element{
+    width:100px;
+}
