@@ -1,0 +1,25 @@
+.full-page{
+    height:3000px;
+}
+
+.product-showcase{
+    position:relative;
+    width:200px;
+    height: 300px;
+}
+.product-image{
+    max-width: 100%;
+    height:auto;
+}
+
+
+.discount-box{
+    position:absolute;
+    top:5px;
+    right:0;
+    font-family: Arial;
+    font-size: 12px;
+    color:white;
+    background-color: black;
+    padding:8px 10px;
+}

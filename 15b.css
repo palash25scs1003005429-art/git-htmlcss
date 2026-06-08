@@ -1,0 +1,12 @@
+.full-page{
+    height:3000px;
+}
+
+.right-bottom-container{
+    position:fixed;
+    bottom: 15px;
+    right:10px;
+    width:320px;
+    height:180px;
+    background-color: gray;
+}

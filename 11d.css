@@ -19,7 +19,7 @@
 .img1{
     width:100%;
     object-fit:cover ;
-    object-position:centre;
+    object-position:center;
     
 }
 
@@ -55,9 +55,7 @@ p{
     margin-bottom:4px;
 }
 
-.hv1{
-    width:100%;
-}
+
 
 .hv2{
     width:97px;
